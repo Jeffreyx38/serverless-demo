@@ -1,2 +1,2 @@
 # serverless-demo
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://jeffreyx38.github.com/images/node.png)
